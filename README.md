@@ -5,7 +5,7 @@
 - [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
-- [Demo Project](https://rick-and-morty-omega-six.vercel.app/)
+- [Demo Project](https://react-hotel-phi.vercel.app/)
 
 ### Built With
 
@@ -49,7 +49,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Erfan Sharafi - [09105003119](https://twitter.com/your_username) - erfansharafi60@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Erfanabi/react-hotel](https://github.com/Erfanabi/react-hotel)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
